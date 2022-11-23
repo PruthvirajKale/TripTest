@@ -1,0 +1,275 @@
+2022-11-18 14:02:21,292 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:02:21,573 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:02:52,052 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:02:52,393 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:04:38,588 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:04:38,881 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:16:13,981 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:16:14,396 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:16:15,197 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:16:15,197 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:43:55,494 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:43:55,957 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:45:35,841 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:45:36,016 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:45:36,315 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-18 14:45:36,719 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-18 14:50:48,942 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:50:49,103 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:50:49,222 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:50:49,222 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:50:50,570 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:50:50,570 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:50:50,570 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:45,057 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:45,251 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 14:56:45,404 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:45,404 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:46,829 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:46,829 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 14:56:46,829 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 15:02:41,238 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 15:02:41,437 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 15:03:23,825 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 15:03:24,020 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 15:03:29,840 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-18 15:03:35,993 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-18 15:03:53,742 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-18 15:03:53,915 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-18 15:03:59,246 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-18 15:04:04,779 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-18 15:04:06,949 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-18 15:04:10,237 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-18 15:04:11,692 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-18 15:04:14,369 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-18 15:04:16,666 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 10:46:36,205 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 10:46:36,544 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 10:46:37,174 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 10:46:37,599 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 10:46:45,717 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 10:46:47,288 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 10:46:50,089 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 10:46:51,474 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 10:46:55,196 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 10:46:59,291 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 10:47:01,265 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 10:47:01,816 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 10:47:03,299 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-20 10:59:14,144 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 10:59:14,368 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 10:59:14,723 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 10:59:15,210 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 10:59:40,305 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 10:59:40,498 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 10:59:40,774 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 10:59:41,328 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 11:00:01,118 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 11:00:01,318 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 11:00:01,547 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 11:00:02,163 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 11:00:09,912 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 11:00:12,582 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 11:00:16,555 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 11:00:20,326 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 11:00:20,901 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 11:00:23,525 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 11:00:24,218 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 11:00:26,567 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 11:00:28,119 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-20 11:24:18,358 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 11:24:18,577 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 11:24:18,832 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 11:24:26,481 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 11:24:41,792 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 11:24:41,974 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 11:24:42,291 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 11:24:42,783 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 11:24:51,933 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 11:24:55,008 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 11:24:58,841 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 11:25:02,304 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 11:25:02,948 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 11:25:05,405 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:12:22,446 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:12:22,602 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:12:22,769 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:12:22,901 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:12:55,021 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:12:55,993 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:12:57,136 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:12:59,424 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:12:59,976 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:13:44,171 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:13:44,798 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:13:45,036 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:13:45,449 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:14:23,662 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:14:23,860 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:14:24,203 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:14:24,602 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:14:32,378 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:14:33,517 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:14:37,396 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:14:42,236 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:14:43,306 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:14:46,187 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:16:20,411 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:16:20,744 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:16:21,309 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:16:21,623 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:16:30,914 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:16:35,568 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:16:36,002 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:16:40,881 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:16:41,623 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:16:44,458 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:16:46,056 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 12:16:47,784 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:22:52,049 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:22:52,318 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:22:52,797 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:22:53,334 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:24:06,969 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:24:07,088 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:24:07,214 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:24:07,419 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:24:15,894 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:24:19,376 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:24:20,876 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:24:25,162 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:24:25,812 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:24:28,368 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:24:30,071 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 12:24:31,236 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:27:01,802 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:27:01,960 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:27:02,096 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:27:02,269 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:27:15,857 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:27:16,307 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:27:17,651 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:27:21,005 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:27:21,543 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:27:23,951 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:27:25,164 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 12:27:26,270 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:27:27,491 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-20 12:33:52,077 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:33:52,316 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:33:52,502 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:33:52,833 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:34:10,117 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:34:10,204 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:34:10,322 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:34:10,503 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:34:23,877 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:34:24,395 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:34:26,109 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:34:28,194 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:34:29,745 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:34:32,201 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:34:33,589 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 12:34:34,730 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:34:36,164 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-20 12:35:34,339 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-20 12:35:34,418 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-20 12:35:34,614 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-20 12:35:34,782 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:35:48,595 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-20 12:35:49,331 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-20 12:35:52,234 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-20 12:35:54,325 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-20 12:35:54,598 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-20 12:35:56,041 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-20 12:35:56,342 :INFO : test_HolidayHomes : Sorting  
+2022-11-20 12:35:57,642 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-20 12:35:58,364 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-21 11:23:17,728 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-21 11:23:18,011 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-21 11:23:18,682 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-21 11:23:18,955 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-22 21:27:10,475 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-22 21:27:10,564 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-22 21:27:10,737 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-22 21:27:10,910 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-22 21:27:31,260 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-22 21:27:33,020 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-22 21:27:33,368 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-22 21:27:36,715 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-22 21:27:37,281 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-22 21:27:39,694 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-22 21:27:40,918 :INFO : test_HolidayHomes : Sorting  
+2022-11-22 21:27:42,069 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-22 21:27:43,468 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-22 21:56:54,941 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-22 21:56:55,124 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-22 21:56:55,385 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-22 21:56:56,001 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-22 22:06:16,688 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-22 22:06:16,757 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-22 22:06:16,887 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-22 22:06:17,050 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:17:24,684 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 16:17:25,028 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 16:17:25,557 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 16:17:25,933 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:19:42,920 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 16:19:43,325 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 16:19:44,481 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 16:19:44,829 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:22:33,421 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 16:22:34,001 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 16:22:34,294 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 16:22:35,105 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:22:44,078 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-23 16:22:46,716 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-23 16:22:51,669 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-23 16:22:56,351 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-23 16:22:58,348 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-23 16:22:59,789 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-23 16:23:01,220 :INFO : test_HolidayHomes : Sorting  
+2022-11-23 16:23:02,385 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:23:03,939 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-23 16:25:20,141 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 16:25:20,697 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 16:25:21,306 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 16:25:29,007 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:26:29,405 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 16:26:29,931 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 16:26:30,357 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 16:26:37,067 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:26:39,577 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-23 16:26:42,059 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-23 16:26:45,586 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-23 16:26:48,527 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-23 16:26:51,495 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-23 16:26:53,140 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-23 16:26:57,007 :INFO : test_HolidayHomes : Sorting  
+2022-11-23 16:26:58,314 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 16:27:00,157 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
+2022-11-23 17:11:06,345 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 17:11:08,436 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 17:11:08,783 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 17:11:40,665 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 17:30:31,004 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 17:30:31,215 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 17:30:31,623 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 17:30:31,817 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 17:36:54,705 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 17:36:54,820 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 17:36:55,059 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 17:36:55,224 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 17:54:19,954 :INFO : test_HolidayHomes : Clicking on Holiday Homes 
+2022-11-23 17:54:20,348 :INFO : test_HolidayHomes : Entering City Names 
+2022-11-23 17:54:20,737 :INFO : test_HolidayHomes : Collecting list of cities and selecting Options  
+2022-11-23 17:54:21,264 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 17:54:52,201 :INFO : test_HolidayHomes : Clicking on Calender and To Date 
+2022-11-23 17:54:53,142 :INFO : test_HolidayHomes : Adding Guest 
+2022-11-23 17:54:57,102 :INFO : test_HolidayHomes : Applying Guest count 
+2022-11-23 17:55:00,913 :INFO : test_HolidayHomes : Displaying Filter 
+2022-11-23 17:55:01,559 :INFO : test_HolidayHomes : Selecting Filter 
+2022-11-23 17:55:03,745 :INFO : test_HolidayHomes : Closing filter window 
+2022-11-23 17:55:07,084 :INFO : test_HolidayHomes : Sorting  
+2022-11-23 17:55:08,373 :INFO : test_HolidayHomes : Clicking on Calender and From Date 
+2022-11-23 17:55:10,202 :INFO : test_HolidayHomes : Printing  the Hotel Names & Per Night charges 
