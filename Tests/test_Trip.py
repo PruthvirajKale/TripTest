@@ -111,3 +111,5 @@ class TestBooking(BaseClass):
         Msg = "Third Hotel Charges are " + homepage.H_Home3Charges()
 
         assert "per night" in homepage.H_Home3Charges()
+
+        print("This Code is Commited and pushed to GitHub Succesfully")
