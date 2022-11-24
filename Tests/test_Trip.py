@@ -112,4 +112,4 @@ class TestBooking(BaseClass):
 
         assert "per night" in homepage.H_Home3Charges()
 
-        print("This Code is Commited and pushed to GitHub Succesfully")
+        # print("This Code is Commited and pushed to GitHub Successfully")
