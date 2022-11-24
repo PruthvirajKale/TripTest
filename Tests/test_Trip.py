@@ -96,6 +96,12 @@ class TestBooking(BaseClass):
 
         assert "Traveller Rating" in homepage.TravelerRatingCheck().text
 
+        prices = homepage.assert_pernight_charges()
+
+        log.info("Applying assert for per night Price ")
+        for price in prices:
+            assert price.text >= '5000'
+
         log.info("Printing  the Hotel Names & Per Night charges")
 
         print("First Hotel Name is " + homepage.H_Home1())
