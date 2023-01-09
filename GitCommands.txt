@@ -1,0 +1,8 @@
+Git commands
+https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html
+
+GitHub 
+UserNAme Pruthviraj
+Email		pruthviraj.kalepatil@cogniwize.com
+pass	Kale@123123
+	
